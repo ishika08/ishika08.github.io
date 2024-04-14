@@ -7,39 +7,39 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirag Jain # the main title
+title: Ishika Gupta # the main title
 
-tagline: Assistant Professor # it will display as the sub-title
+tagline: Senior Data Engineer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Chirag Jain
+  Ishika Gupta
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: "https://at-cg.github.io"
+url: "https://ishika08.github.io"
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
-author: Chirag Jain # change to your full name
+author: Ishika Gupta # change to your full name
 
-avatar: /headshot.jpg # support internet resources
+avatar: /headshot.png # support internet resources
 
 github:
-  username: cjain7 # change to your github username
+  username: ishika08 # change to your github username
 
 twitter:
   username: chirgjain # change to your twitter username
 
 social:
-  name: Chirag Jain # it will shows as the copyright owner in Footer
+  name: Ishika Gupta # it will shows as the copyright owner in Footer
   email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/chirgjain # change to your twitter homepage
-    - https://github.com/cjain7 # change to your github homepage
+    - https://github.com/ishika08 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ishika-gupta-cs20s057
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -76,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
 toc: true
