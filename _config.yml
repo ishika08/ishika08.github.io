@@ -9,7 +9,7 @@
 
 title: Ishika Gupta # the main title
 
-tagline: Senior Data Engineer # it will display as the sub-title
+tagline: ML enthusiast | Avid reader   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Ishika Gupta
@@ -27,15 +27,15 @@ avatar: /headshot.png # support internet resources
 github:
   username: ishika08 # change to your github username
 
-twitter:
-  username: chirgjain # change to your twitter username
+linkedin:
+  username: ishika-gupta-cs20s057  # change to your twitter username
 
 social:
   name: Ishika Gupta # it will shows as the copyright owner in Footer
   email:  # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/chirgjain # change to your twitter homepage
+    # - https://twitter.com/chirgjain # change to your twitter homepage
     - https://github.com/ishika08 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
