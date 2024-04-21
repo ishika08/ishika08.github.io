@@ -1,18 +1,16 @@
 <p style="font-size: 1.03rem">
-    Hi, I am working as a Senior software Engineer at <a href="https://dexian.com/">Dexian</a>. My work mainly comprises working on POCs for the trending problems in NLP, Machine and Deep learning. As a data scientist, I worked on end-to-end ML/NLP and LLM-based projects, in Python, and deployed them on the Azure cloud platform while maintaining high efficiency and quality. 
+    Hi, I am working as a Senior software Engineer at <a href="https://dexian.com/">Dexian</a>. My work mainly comprises developing POCs for them to validate and showcase the feasibility and effectiveness of the proposed solutions. As a data scientist, I worked on designing solutions for trending problems in ML/DL, NLP. I have also worked on LLM-based projects, and deployed them on the Azure cloud platform while maintaining high efficiency and quality. 
   </p>
   
   
   <p style="font-size: 1.03rem">
-    Prior to my joining at Dexian, I was working as a MS research scholar in Computer Science at <a href="https://www.iitm.ac.in/">Indian Institute of Technology, Madras</a. I have been the part of <a href="http://www.cse.iitm.ac.in/lab_details.php?arg=MTQ=">Speech, Music and Vision (SMV) Lab</a> and worked under the guidance of <a href="http://www.cse.iitm.ac.in/~hema/">Prof Hema A Murthy </a>. During this period, I got the opportunity to work as a project officer, on many goverement sponsered projects with MeiTy being the most prominient one. 
+    Prior to my joining at Dexian, I was working as a MS research scholar in Computer Science department at <a href="https://www.iitm.ac.in/">Indian Institute of Technology, Madras</a. I have been the part of <a href="http://www.cse.iitm.ac.in/lab_details.php?arg=MTQ=">Speech, Music and Vision (SMV) Lab</a> and worked under the guidance of <a href="http://www.cse.iitm.ac.in/~hema/">Prof Hema A Murthy </a> with Audio and Speech Processing as my MS specialization. My research work focused on incorporating expression and prosody for conversational speech synthesis using a hybrid of statistical parametric and neural-based TTS models. At the same time, I got the opportunity to work as a project officer, on many goverement sponsered projects with MeiTy being the most prominient one. 
 Here are the list of things I worked on:
-    
-    and was involved in NLTM pilot project is to synthesize speech in Indian languages, in particular Hindi and Tamil, and then transcreate the English lectures into Indian languages, using isochronous lip-syncing. design solutions that are provably-good, scalable in practice, and useful for life scientists to draw new insights from high-throughput data. 
-    
+  <ul>  
     
 1) I have contributed a greater extent in the "Bhashini multi-lingual project," a major initiative undertaken by the govt. of India
-2) I was involved in NLTM pilot proposal is to synthesize speech in Indian languages, in particular Hindi and Tamil, and then transcreate the English lectures into Indian languages, using isochronous lip-syncing
-    
+2) I was involved in NLTM pilot proposal is to synthesize speech in Indian languages, in particular Hindi and Tamil, and then transcreate the English lectures into various Indian languages, using isochronous lip-syncing
+   </ul> 
     
     with <a href="https://genomeinformatics.github.io/people/phillippy/">Adam Phillippy</a> at the <a href="https://www.genome.gov/">National Institutes of Health</a>.
     In 2019, I received Ph.D. at <a href="https://www.cse.gatech.edu/">Georgia Tech</a>, where I was advised by <a href="https://www.cc.gatech.edu/~saluru/">Srinivas Aluru</a> for my <a href="http://hdl.handle.net/1853/61258">dissertation work</a>.
@@ -21,4 +19,4 @@ Here are the list of things I worked on:
   
   
   
-  
+  I did my bachelors in computer science at Indian Institute of Technology Delhi. 

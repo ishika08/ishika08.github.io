@@ -18,7 +18,7 @@ type: teams
             <div class="container py-2">
                 <div class="row pb-4">
                     <div class="col-12 text-center">
-                        <h1>Our Team</h1>
+                        <h1>Skills</h1>
                     <!-- p>Can add any text here</p -->
                     </div>
                 </div>
