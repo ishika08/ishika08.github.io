@@ -18,7 +18,7 @@ type: skills
             <div class="container py-2">
                 <div class="row pb-4">
                     <div class="col-12 text-center">
-                        <h1>Skills</h1>
+                        <h1>Technical Skills</h1>
                     <!-- p>Can add any text here</p -->
                     </div>
                 </div>
@@ -26,7 +26,7 @@ type: skills
 
                 <!-- ---Sort names lexicographically by first name----------- -->
                 <!-- ------------------- -->
-                <H2> PhD students </H2>
+                <H2> Programming Languages </H2>
                 <!-- cards -->
                 <div class="row">
                   
@@ -37,7 +37,7 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/python-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/python-logo.png" class="shadow-sm rounded-circle" height="130" width="110" />
                                 </div>
                                 <div class="user-content">
                                     <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.python.org/3/whatsnew/3.12.html">Python</a></h5>
@@ -85,27 +85,6 @@ type: skills
                     <!-- END CARD -->
 
                 </div>
-
-                <div class="row">
-                    <!-- BEGIN CARD -->
-                    <div class="col-lg-4 col-md-6">
-                        <div class="card shadow-sm border-0">
-                            <div class="card-body">
-                                <div class="user-picture">
-                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
-                                url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/Sudhanva.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
-                                </div>
-                                <div class="user-content">
-                                <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name">Sudhanva S Kamath</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END CARD -->
-
-                </div>
                 <!-- ------------------- -->
               
               
@@ -113,7 +92,7 @@ type: skills
               
                 <!-- ---Sort names lexicographically by first name----------- -->
                 <!-- ------------------- -->
-                <H2> MTech students </H2>
+                <H2> Databases </H2>
                 <!-- cards -->
                 <div class="row">
                   
@@ -195,6 +174,90 @@ type: skills
                 </div>
 
                 <!-- ------------------- -->
+
+
+            <-- ---Sort names lexicographically by first name----------- -->
+                <!-- ------------------- -->
+                <H2> Cloud Frameworks </H2>
+                <!-- cards -->
+                <div class="row">
+                  
+                  
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Ajeya.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name">Ajeya B S</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Jyotshna.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/jyotshna-rajput-b5928b1b2">Jyotshna Rajput</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Parvesh.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Parvesh Barak</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                </div>
+
+
+                 <div class="row">
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Sai_Venkat.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                <!-- Replace # with hyperlink of the user website or any link -->
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Sai Venkat</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                </div>
 
 
 
