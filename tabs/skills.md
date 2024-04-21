@@ -256,6 +256,7 @@ type: skills
                     </div>
                     <!-- END CARD -->
 
+                    <div class="row">
                     <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
                         <div class="card shadow-sm border-0">
@@ -275,7 +276,7 @@ type: skills
 
                 </div>
 
-                 <div class="row">
+                 
                     <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
                         <div class="card shadow-sm border-0">
