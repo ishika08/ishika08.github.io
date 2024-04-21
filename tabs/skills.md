@@ -188,7 +188,7 @@ type: skills
                                     <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
+                                    <h5 class="text-capitalize user-name" style="text-align: right;"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -345,12 +345,12 @@ type: skills
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/kushagragarwal2443">Kushagra Agarwal</a> (Project Intern, 2021-22)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/souvadrahati">Souvadra Hati</a> (UG Thesis, 2021-22)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/bhavay-aggarwal">Bhavay Aggarwal</a> (Project Intern, 2021)</h5></li>
-                </ul> 
+                </ul> -->
 
 
-            </div> -->
-            <!-- /cards -->
+            </div> 
+            /cards
         </section>
-        <!-- /Ui cards -->
+        /Ui cards
     </main>
 </body>
