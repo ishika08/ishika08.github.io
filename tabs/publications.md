@@ -25,7 +25,7 @@ type: archives
 Sudhanshu Srivastava, Anusha Prakash,  Jom Kuriakose, <u>Ishika Gupta</u>, Hema A. Murthy  
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://arxiv.org/pdf/2302.06227.pdf style="all: unset; color: inherit">Paper</a>
+<a href="https://arxiv.org/pdf/2302.06227.pdf" style="all: unset; color: inherit">Paper</a>
 </button> 
 
 #### ** Publications 2023**
@@ -48,8 +48,8 @@ Arun Kumar, Anusha P, Ashish Seth, Bhagyashree M, <u>Ishika Gupta</u>, Hema A Mu
 <button type="button" class="btn btn-outline-secondary btn-sm">
 <a href="https://docs.google.com/presentation/d/1XSBO8trOrsBD1208HSKg4j2v698ptcsUsXJOLW-c3JM/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
 </button>
-<!-- 
-#### **2023**
+
+<!-- #### **2023** -->
 
 <!-- 
 * **Long-read mapping to repetitive reference sequences using Winnowmap2** <br>
@@ -214,4 +214,4 @@ P Sao, O Green, <u>C Jain</u>, R Vuduc. _ACM FTXS_
 <u>C Jain</u>, S Kumar. _IEEE HiPC_
 <br>
  <button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1NKVgF0wI73DwxLldSpSGj5_BAknA2X_S/view?usp=sharing" style="all: unset; color: inherit">Paper</a></button> 
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11iYwjh0r-sXCSGsLrUm689imAsdz5qb4/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button> --> -->
+<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11iYwjh0r-sXCSGsLrUm689imAsdz5qb4/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button> --> 

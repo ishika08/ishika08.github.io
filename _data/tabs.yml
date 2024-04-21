@@ -18,19 +18,19 @@
   icon: "fas fa-archive"
   path: tabs
   url: publications
-- name: "Software"
-  icon: "fa fa-desktop"
-  path: tabs
-  url: software
-- name: "Blogs"
-  icon: "fas fa-blog"
-  path: tabs
-  url: blog
-- name: "Team"
+# - name: "Software"
+#   icon: "fa fa-desktop"
+#   path: tabs
+#   url: software
+# - name: "Blogs"
+#   icon: "fas fa-blog"
+#   path: tabs
+#   url: blog
+- name: "Skills"
   icon: "fas fa-users"
   path: tabs
   url: teams
-- name: "Join Us"
-  icon: "fas fa-user-plus"
-  path: tabs
-  url: join 
+# - name: "Join Us"
+#   icon: "fas fa-user-plus"
+#   path: tabs
+#   url: join 
