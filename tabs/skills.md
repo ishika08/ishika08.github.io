@@ -55,7 +55,7 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="110" />
                                 </div>
                                 <div class="user-content">
                                     <h5 class="text-capitalize user-name"><a target="_blank" href="https://devdocs.io/cpp/">C++</a></h5>
@@ -72,7 +72,7 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/shell-script-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/shell-script-logo.png" class="shadow-sm rounded-circle" height="130" width="110" />
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
@@ -104,10 +104,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/Snowflake_logo.png" class="shadow-sm rounded-circle" height="130" width="110" />
+                                    <img src="./../assets/img/Snowflake_logo.png" class="shadow-sm rounded-circle" height="130" width="10" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.snowflake.com/en/user-guide-getting-started">Snowflake</a></h5>
+                                    <h5 class="text-capitalize user-name">Ajeya B S</h5>
                                 </div>
                             </div>
                         </div>
@@ -121,10 +121,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/azure-sql-logo.jpg" class="shadow-sm rounded-circle" height="130" width="120" />
+                                    <img src="./../assets/img/Jyotshna.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql">Azure SQL</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/jyotshna-rajput-b5928b1b2">Jyotshna Rajput</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -139,10 +139,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/chromaDB_logo.png" class="shadow-sm rounded-circle" height="130" width="120" />
+                                    <img src="./../assets/img/Parvesh.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.trychroma.com/">Chroma DB</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Parvesh Barak</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -168,10 +168,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/azure-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/Ajeya.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://learn.microsoft.com/en-us/azure/app-service/">Azure</a></h5>
+                                    <h5 class="text-capitalize user-name">Ajeya B S</h5>
                                 </div>
                             </div>
                         </div>
@@ -185,10 +185,28 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/Jyotshna.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/jyotshna-rajput-b5928b1b2">Jyotshna Rajput</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Parvesh.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Parvesh Barak</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -197,7 +215,28 @@ type: skills
 
                 </div>
 
-   <!-- ---Sort names lexicographically by first name----------- -->
+
+                 <div class="row">
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/Sai_Venkat.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                <!-- Replace # with hyperlink of the user website or any link -->
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Sai Venkat</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                </div>
+
                 <!-- ------------------- -->
                 <H2> Extras </H2>
                 <!-- cards -->
@@ -214,7 +253,7 @@ type: skills
                                     <img src="./../assets/img/LLM-logo.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://learn.microsoft.com/en-us/azure/app-service/">LLMs</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.cognigy.com/ai/resources/build/llm/">LLMs</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -228,7 +267,7 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/docker-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/docker-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
                                     <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.docker.com/engine/">Docker</a></h5>
@@ -256,7 +295,10 @@ type: skills
                     </div>
                     <!-- END CARD -->
 
-                    <div class="row">
+                </div>
+
+
+                 <div class="row">
                     <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
                         <div class="card shadow-sm border-0">
@@ -267,6 +309,7 @@ type: skills
                                     <img src="./../assets/img/prompt_engg.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
+                                <!-- Replace # with hyperlink of the user website or any link -->
                                     <h5 class="text-capitalize user-name"><a target="_blank" href="https://platform.openai.com/docs/guides/prompt-engineering">Prompt Engineering</a></h5>
                                 </div>
                             </div>
@@ -274,9 +317,6 @@ type: skills
                     </div>
                     <!-- END CARD -->
 
-                </div>
-
-                 
                     <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
                         <div class="card shadow-sm border-0">
@@ -288,12 +328,13 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://git-scm.com/docs/git">Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">Git</a></h5>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- END CARD -->
+
 
                     <!-- BEGIN CARD -->
                     <div class="col-lg-4 col-md-6">
@@ -333,7 +374,7 @@ type: skills
                 <!-- ------------------- -->
 
                 <!-- ------------------- -->
-                 <!-- <H2>Group Alumni</H2> -->
+                <!-- <H2>Group Alumni</H2> -->
                 <!-- cards -->
                 <!-- <ul style="list-style-type:none;">
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-manasa-chadalavada-621b1810a/">Sai Manasa C</a> (Project Intern, 2022-23)</h5></li>
@@ -342,11 +383,11 @@ type: skills
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="http://www.linkedin.com/in/dyotanadas">Dyotana Das</a> (MTech, 2022-23)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/kushagragarwal2443">Kushagra Agarwal</a> (Project Intern, 2021-22)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/souvadrahati">Souvadra Hati</a> (UG Thesis, 2021-22)</h5></li>
-                <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/bhavay-aggarwal">Bhavay Aggarwal</a> (Project Intern, 2021)</h5></li> -->
-                <!-- </ul>  -->
+                <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/bhavay-aggarwal">Bhavay Aggarwal</a> (Project Intern, 2021)</h5></li>
+                </ul> 
 
 
-            </div>
+            </div> -->
             <!-- /cards -->
         </section>
         <!-- /Ui cards -->
