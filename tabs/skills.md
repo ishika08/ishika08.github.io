@@ -211,10 +211,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/azure-logo.png" class="shadow-sm rounded-circle" height="130" width="120" />
+                                    <img src="./../assets/img/LLM-logo.jpg" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://learn.microsoft.com/en-us/azure/app-service/">Azure</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://learn.microsoft.com/en-us/azure/app-service/">LLMs</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -228,10 +228,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="120" />
+                                    <img src="./../assets/docker-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">Docker</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -246,10 +246,27 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/Parvesh.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/rasa-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Parvesh Barak</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Git</a></h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END CARD -->
+
+                    <!-- BEGIN CARD -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="card shadow-sm border-0">
+                            <div class="card-body">
+                                <div class="user-picture">
+                                <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
+                                url code will be like: ./../assets/img/xyz.jpg -->
+                                    <img src="./../assets/img/prompt_engg.png" class="shadow-sm rounded-circle" height="130" width="130" />
+                                </div>
+                                <div class="user-content">
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Git</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +274,6 @@ type: skills
                     <!-- END CARD -->
 
                 </div>
-
 
                  <div class="row">
                     <!-- BEGIN CARD -->
@@ -271,7 +287,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Sai Venkat</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Streamlit</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +314,7 @@ type: skills
                 <!-- ------------------- -->
 
                 <!-- ------------------- -->
-                <H2>Group Alumni</H2>
+                <!-- <H2>Group Alumni</H2>
                 <!-- cards -->
                 <ul style="list-style-type:none;">
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-manasa-chadalavada-621b1810a/">Sai Manasa C</a> (Project Intern, 2022-23)</h5></li>
@@ -308,7 +324,7 @@ type: skills
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/kushagragarwal2443">Kushagra Agarwal</a> (Project Intern, 2021-22)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/souvadrahati">Souvadra Hati</a> (UG Thesis, 2021-22)</h5></li>
                 <li><h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/bhavay-aggarwal">Bhavay Aggarwal</a> (Project Intern, 2021)</h5></li>
-                </ul>
+                </ul> -->
 
 
             </div>
