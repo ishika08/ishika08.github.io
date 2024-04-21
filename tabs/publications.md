@@ -6,6 +6,7 @@ type: archives
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2017-2019 Cotes Chung
 # MIT License
+#Preprints #_BioRxiv_
 ---
 
 <head>
@@ -16,29 +17,29 @@ type: archives
   <link rel="stylesheet" href="../../assets/css/main.css" />
 </head>
 
-### Citation statistics can be accessed using [Google Scholar](https://scholar.google.com/citations?user=Y2UmkF0AAAAJ&hl=en)
+### Citation statistics can be accessed using [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=AnY36aMAAAAJ)
 
-#### **Preprints**
+#### **Publications**
 
-* **Telomere-to-telomere assembly by preserving contained reads** <br>
-S S Kamath, M Bindra, D Pal, <u>C Jain</u>. _BioRxiv_
+* **E-TTS: Expressive Text-to-Speech Synthesis for Hindi Using Data Augmentation** <br>
+<u>Ishika Gupta</u>, Hema A. Murthy  
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://doi.org/10.1101/2023.11.07.565066" style="all: unset; color: inherit">Preprint</a>
+<a href="https://dl.acm.org/doi/10.1007/978-3-031-48312-7_20" style="all: unset; color: inherit">Paper</a>
 </button> 
 <button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://github.com/at-cg/RAFT" style="all: unset; color: inherit">Code</a>
+<a href="https://docs.google.com/presentation/d/1XSBO8trOrsBD1208HSKg4j2v698ptcsUsXJOLW-c3JM/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
 </button>
 
 #### **2024**
-* **Haplotype-aware sequence alignment to pangenome graphs** <br>
-G Chandra, D Gibney, <u>C Jain</u>. _RECOMB_
+* **Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages** <br>
+Arun Kumar, Anusha P, Ashish Seth, Bhagyashree M, <u>Ishika Gupta</u>, Hema A Murthy, Mano R Kumar M et.al
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://doi.org/10.1101/2023.11.15.566493" style="all: unset; color: inherit">Preprint</a>
+<a href="https://arxiv.org/pdf/2211.01338.pdf" style="all: unset; color: inherit">Paper</a>
 </button> 
 <button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://github.com/at-cg/minichain" style="all: unset; color: inherit">Code</a>
+<a href="https://docs.google.com/presentation/d/1rNp-4YC76Zd3qIiEVlfbYkwgkhWs9atESojxAL-TlSA/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
 </button>
 
 * **Co-linear chaining on pangenome graphs** <br>
