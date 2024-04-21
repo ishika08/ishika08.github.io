@@ -231,7 +231,7 @@ type: skills
                                     <img src="./../assets/docker-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">Docker</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.docker.com/engine/">Docker</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -249,7 +249,7 @@ type: skills
                                     <img src="./../assets/img/rasa-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://rasa.com/docs/rasa/">RASA</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -266,7 +266,7 @@ type: skills
                                     <img src="./../assets/img/prompt_engg.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://github.com/parveshbarak">Prompt Engineering</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://platform.openai.com/docs/guides/prompt-engineering">Prompt Engineering</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -287,7 +287,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://git-scm.com/docs/git">Git</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -305,7 +305,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/sai-venkat-01060620a">Streamlit</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.streamlit.io/get-started/fundamentals/main-concepts">Streamlit</a></h5>
                                 </div>
                             </div>
                         </div>
