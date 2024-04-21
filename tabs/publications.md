@@ -19,19 +19,16 @@ type: archives
 
 ### Citation statistics can be accessed using [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=AnY36aMAAAAJ)
 
-#### **Publications**
+#### **Preprint**
 
-* **E-TTS: Expressive Text-to-Speech Synthesis for Hindi Using Data Augmentation** <br>
-<u>Ishika Gupta</u>, Hema A. Murthy  
+* **Fast and small footprint hybrid HMM-HIFIGAN based system for speech synthesis in Indian Languages** <br>
+Sudhanshu Srivastava, Anusha Prakash,  Jom Kuriakose, <u>Ishika Gupta</u>, Hema A. Murthy  
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://dl.acm.org/doi/10.1007/978-3-031-48312-7_20" style="all: unset; color: inherit">Paper</a>
+<a href="https://arxiv.org/pdf/2302.06227.pdf style="all: unset; color: inherit">Paper</a>
 </button> 
-<button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://docs.google.com/presentation/d/1XSBO8trOrsBD1208HSKg4j2v698ptcsUsXJOLW-c3JM/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
-</button>
 
-#### **2024**
+#### ** Publications 2023**
 * **Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages** <br>
 Arun Kumar, Anusha P, Ashish Seth, Bhagyashree M, <u>Ishika Gupta</u>, Hema A Murthy, Mano R Kumar M et.al
 <br>
@@ -42,62 +39,19 @@ Arun Kumar, Anusha P, Ashish Seth, Bhagyashree M, <u>Ishika Gupta</u>, Hema A Mu
 <a href="https://docs.google.com/presentation/d/1rNp-4YC76Zd3qIiEVlfbYkwgkhWs9atESojxAL-TlSA/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
 </button>
 
-* **Co-linear chaining on pangenome graphs** <br>
-J Rajput, G Chandra, <u>C Jain</u>. _AMB (extended abstract appeared in WABI'23)_
+* **E-TTS: Expressive Text-to-Speech Synthesis for Hindi Using Data Augmentation** <br>
+<u>Ishika Gupta</u>, Hema A. Murthy  
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1uw7VfX6-9x9-jdr4apZz5qP0fgeu1OlI/view?usp=share_link" style="all: unset; color: inherit">Paper</a>
+<a href="https://dl.acm.org/doi/10.1007/978-3-031-48312-7_20" style="all: unset; color: inherit">Paper</a>
 </button> 
 <button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://github.com/at-cg/PanAligner" style="all: unset; color: inherit">Code</a>
+<a href="https://docs.google.com/presentation/d/1XSBO8trOrsBD1208HSKg4j2v698ptcsUsXJOLW-c3JM/edit?usp=sharing" style="all: unset; color: inherit">Poster</a>
 </button>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1pETs5E8DwiAPkw-F_qubjfY4TLnqwGQg/view?usp=share_link" style="all: unset; color: inherit">Slides</a>
-</button>
-
+<!-- 
 #### **2023**
 
-* **Lossless compression of petabyte-scale sequencing data** <br>
-A Bhat, S M Chadalavada, N Jammula, <u>C Jain</u>, Y Simmhan. _IEEE HiPC_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1wUiWWlXTu0M4TQ-syLNyWAKfrGB1ZYoA/view?usp=share_link" style="all: unset; color: inherit">Slides</a>
-</button>
-
-* **Coverage-preserving sparsification of overlap graphs for long-read assembly** <br>
-<u>C Jain</u>. _Bioinformatics_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1XHOIbJ95gRpp7Hf-los8QNdxw73br9do/view?usp=sharing" style="all: unset; color: inherit">Paper</a>
-</button> 
-<button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://github.com/at-cg/containX" style="all: unset; color: inherit">Code</a>
-</button>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1GfNyDX2e-oEsUjBza9w111mzdHUVhmy8/view?usp=share_link" style="all: unset; color: inherit">Slides</a>
-</button>
-<button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://youtu.be/wolP6MzsGfo" style="all: unset; color: inherit">Video</a>
-</button>
-
-* **Gap-sensitive colinear chaining algorithms for acyclic pangenome graphs** <br>
-G Chandra, <u>C Jain</u>. _JCB (extended abstract appeared in RECOMB'23)_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1j6mrQTVSi8Td_yvzwIFgBLFHOT_GQwfi/view?usp=share_link" style="all: unset; color: inherit">Paper</a>
-</button> 
-<button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://github.com/at-cg/minichain" style="all: unset; color: inherit">Code</a>
-</button>
-<button type="button" class="btn btn-outline-info btn-sm">
-<a href="https://drive.google.com/file/d/1_EcyeHWv4wuOQ8ikgIV3TOvsFFCufQCr/view?usp=sharing" style="all: unset; color: inherit">Slides</a>
-</button>
-<button type="button" class="btn btn-outline-secondary btn-sm">
-<a href="https://youtu.be/uaBsyvePt3w" style="all: unset; color: inherit">Video</a>
-</button>
-
-#### **2022**
-
+<!-- 
 * **Long-read mapping to repetitive reference sequences using Winnowmap2** <br>
 <u>C Jain</u>, A Rhie, N Hansen, S Koren, A Phillippy. _Nature Methods_
 <br>
@@ -147,31 +101,11 @@ Mc Cartney et al. _Nature Methods_
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
 <a href="https://doi.org/10.1038/s41592-022-01440-3" style="all: unset; color: inherit">Paper</a>
-</button>
+</button> -->
 
-#### **2021**
 
-* **A variant selection framework for genome graphs** <br>
-<u>C Jain</u>, N Tavakoli, S Aluru. _Bioinformatics (ISMB/ECCB proceedings)_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1wyI06sKQin0XQzzI7iPjbHl3_lpOLyi6/view?usp=sharing" style="all: unset; color: inherit">Paper</a></button>
-<button type="button" class="btn btn-outline-secondary btn-sm"><a href="https://github.com/at-cg/VF" style="all: unset; color: inherit">Code</a></button>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1s12icpPBFCj2X9umZpRU2-4pij9kqZet/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button>
-
-* **Real-time mapping of nanopore raw signals** <br>
-H Zhang, H Li, <u>C Jain</u> et al. _Bioinformatics (ISMB/ECCB proceedings)_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1XCwfX-eoSWk2shd9ke14UyEF-UnZISGZ/view?usp=sharing" style="all: unset; color: inherit">Paper</a></button>
-<button type="button" class="btn btn-outline-secondary btn-sm"><a href="https://github.com/haowenz/sigmap" style="all: unset; color: inherit">Code</a></button>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1yJu6qw7tLLorQxvfbsEpMzN7NlWlpSKp/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button>
-
-* **The structure, function, and evolution of a complete human chromosome 8** <br>
-Logsdon et al. _Nature_
-<br>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://www.nature.com/articles/s41586-021-03420-7" style="all: unset; color: inherit">Paper</a></button> 
-
-#### **2020**
-
+<!-- #### **2020** -->
+<!-- 
 * **Weighted minimizer sampling improves long read mapping** <br>
 <u>C Jain</u>, A Rhie, H Zhang, C Chu, B Walenz, S Koren, A Phillippy. _Bioinformatics (ISMB proceedings)_
 <br>
@@ -272,12 +206,12 @@ Sczyrba et al. _Nature Methods_
 P Sao, O Green, <u>C Jain</u>, R Vuduc. _ACM FTXS_
 <br>
 <button type="button" class="btn btn-outline-info btn-sm"><a href="https://dl.acm.org/doi/10.1145/2909428.2909435" style="all: unset; color: inherit">Paper</a></button> 
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11BGzNOdLtxFehVymvfs__Vwie_LYK0ni/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button>
+<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11BGzNOdLtxFehVymvfs__Vwie_LYK0ni/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button> --> 
 
-#### **2014**
+<!-- #### **2014** -->
 
-* **Fine-grained GPU parallelization of pairwise local sequence alignment** <br>
+<!--* **Fine-grained GPU parallelization of pairwise local sequence alignment** <br>
 <u>C Jain</u>, S Kumar. _IEEE HiPC_
 <br>
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1NKVgF0wI73DwxLldSpSGj5_BAknA2X_S/view?usp=sharing" style="all: unset; color: inherit">Paper</a></button> 
-<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11iYwjh0r-sXCSGsLrUm689imAsdz5qb4/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button>
+ <button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/1NKVgF0wI73DwxLldSpSGj5_BAknA2X_S/view?usp=sharing" style="all: unset; color: inherit">Paper</a></button> 
+<button type="button" class="btn btn-outline-info btn-sm"><a href="https://drive.google.com/file/d/11iYwjh0r-sXCSGsLrUm689imAsdz5qb4/view?usp=sharing" style="all: unset; color: inherit">Slides</a></button> --> -->
