@@ -6,18 +6,14 @@
 
 - name: Home
   icon: "fas fa-home"
-- name: "News"
-  icon: "fas fa-info"
-  path: tabs
-  url: new
+# - name: "News"
+#   icon: "fas fa-info"
+#   path: tabs
+#   url: new
 - name: "Projects"
   icon: "fas fa-tags"
   path: tabs
   url: projects
-- name: "Publications"
-  icon: "fas fa-archive"
-  path: tabs
-  url: publications
 # - name: "Software"
 #   icon: "fa fa-desktop"
 #   path: tabs
@@ -29,7 +25,11 @@
 - name: "Skills"
   icon: "fas fa-users"
   path: tabs
-  url: teams
+  url: skills
+- name: "Publications"
+  icon: "fas fa-archive"
+  path: tabs
+  url: publications  
 # - name: "Join Us"
 #   icon: "fas fa-user-plus"
 #   path: tabs

@@ -1,6 +1,6 @@
 ---
-title: My Team
-type: teams
+title: My Skills
+type: skills
 ---
 
 <head>
@@ -37,11 +37,11 @@ type: teams
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/Daanish.jpeg" class="shadow-sm rounded-circle" height="130" width="130" />
+                                    <img src="./../assets/img/python-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://www.linkedin.com/in/daanish-mahajan-644619144/">Daanish Mahajan</a></h5>
-                                    <h6>(jointly supervised with <a target="_blank" href="https://ece.iisc.ac.in/~nkashyap/">Navin Kashyap</a>)</h6>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.python.org/3/whatsnew/3.12.html">Python</a></h5>
+                                    <!-- <h6>(jointly supervised with <a target="_blank" href="https://ece.iisc.ac.in/~nkashyap/">Navin Kashyap</a>)</h6> -->
                                 </div>
                             </div>
                         </div>

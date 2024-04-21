@@ -28,8 +28,9 @@ Sudhanshu Srivastava, Anusha Prakash,  Jom Kuriakose, <u>Ishika Gupta</u>, Hema 
 <a href="https://arxiv.org/pdf/2302.06227.pdf" style="all: unset; color: inherit">Paper</a>
 </button> 
 
-#### ** Publications 2023**
-* **Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages** <br>
+#### **Publications 2023**
+* **Technology Pipeline for Large Scale Cross-Lingual Dubbing of Lecture Videos into Multiple Indian Languages** 
+<br>
 Arun Kumar, Anusha P, Ashish Seth, Bhagyashree M, <u>Ishika Gupta</u>, Hema A Murthy, Mano R Kumar M et.al
 <br>
 <button type="button" class="btn btn-outline-info btn-sm">
