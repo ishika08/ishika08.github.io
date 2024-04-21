@@ -58,7 +58,7 @@ type: skills
                                     <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="110" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://devdocs.io/cpp/">C++</a></h5>
+                                    <h5 class="text-capitalize user-name" style="text-align: center;"><a target="_blank" href="https://devdocs.io/cpp/">C++</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@ type: skills
                                     <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name" style="text-align: right;"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
+                                    <h5 class="text-capitalize user-name" style="text-align: center;"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -349,8 +349,8 @@ type: skills
 
 
             </div> 
-            /cards
+           
         </section>
-        /Ui cards
+        
     </main>
 </body>
