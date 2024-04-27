@@ -55,10 +55,10 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="110" />
+                                    <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name" style="text-align: center;"><a target="_blank" href="https://devdocs.io/cpp/">C++</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://devdocs.io/cpp/">&nbsp;&nbsp;&nbsp;C++</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@ type: skills
                                 <div class="user-picture">
                                 <!-- Add Url to the photo here, photo will be saved under /tabs/assets/img, 
                                 url code will be like: ./../assets/img/xyz.jpg -->
-                                    <img src="./../assets/img/shell-script-logo.png" class="shadow-sm rounded-circle" height="130" width="110" />
+                                    <img src="./../assets/img/shell-script-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
@@ -188,7 +188,7 @@ type: skills
                                     <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name" style="text-align: center;"><a target="_blank" href="https://cloud.google.com/docs">GCP</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">&nbsp;&nbsp;&nbsp;GCP</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +289,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">&nbsp;&nbsp;&nbsp;Git</a></h5>
                                 </div>
                             </div>
                         </div>
