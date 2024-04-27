@@ -28,9 +28,32 @@ To try the demo, pls click on the [link](https://dexianroleplai.azurewebsites.ne
 
    <img class="image" style="float: right;" src="./../assets/img/roleplai.gif">
 
-As a result, scalable algorithms and software are indispensable components of computational biology. Our research within this area builds on and extends approximate similarity search, string, geometric and graph algorithms, along with their parallelisation on modern multicore computing platforms. Through interdisciplinary collaborations, we have developed new algorithms and widely-used bioinformatics [software](/software) to accelerate sequence analysis. Our active projects and their corresponding papers from our lab are listed below.
 <br>
+Features:
 <br>
+<ul>
+<li> AI-powered coaching solution for simulated conversations </li>
+<li>  Role-playing defined personas within specific contexts </li>
+<li>  Highly customizable and on-demand coaching experience </li>
+<li> Objective evaluations at the conclusion of each interaction </li>
+<li> Highlights areas for improvement and reinforces best practices </li>
+<li> Speech mode for interactive voice-based interactions </li>
+<li> Whisper model for converting speech to text </li>
+</ul>
+<br>
+
+Future Functionalities: <br>
+<ul>
+  <li>  Incorporating visual avatar for the roleplay coach </li>
+ <li>   Modulating the emotion of the coach's speech </li>
+</ul>
+<br>
+
+Limitations: <br>
+
+  <li>Dependence on AI for coaching may lack the personal touch of human coaches </li>
+  <li> Limited ability to handle complex and nuanced scenarios compared to human coaches </li>
+  <br>
    <hr>
 <!-- 1. **Algorithmic techniques for genome resequencing.**
    Mapping sequences to a reference genome is often the first computational step in deriving biological insights from genomic data. Accurate mapping of sequences is key to predict genetic or epigenetic variation. Doing this precisely has been challenging as human and other mammalian genomes are [riddled with near-identical repetitive sequences](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002384). Such repeats often confuse existing sequence mappers, resulting in false-positive alignments and poor confidence scores. Desirable characteristics of a mapper include: (i) efficiency of the algorithm, (ii) high sensitivity and specificity, and (iii) scalability to large data sets and human genomes. In this project, we aim to develop provably-good and practical 'repeat-aware' mapping algorithms that meet these expectations. -->
@@ -59,7 +82,7 @@ Modules Involved:
 </ul>
 <br/>
 
-<img style="float: right; height: 200px; width: 500px;" src="./../assets/img/technology_pipeline.png">
+<img style="float: right; height: 270px; width: 500px;" src="./../assets/img/technology_pipeline.png">
 <br/>
 
 Challenges faced: <br/>
