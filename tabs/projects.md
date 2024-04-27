@@ -45,7 +45,7 @@ As a result, scalable algorithms and software are indispensable components of co
 
 <h3 style="font-weight: bold;">2. Video transcreation of English Lectures to multiple Indian Languages</h3>
 <br>
-This is a description of a Transcreation of Lectures from English to multiple Indian Languages. To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. <br/>
+This is a description of a Transcreation of Lectures from English to multiple Indian Languages. To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. <br/> <br/>
 Modules Involved: 
 <br/>
 <ul>
@@ -58,11 +58,13 @@ Modules Involved:
 <li> Isochronous Lip-syncing: Matching synthesized speech with original video lip  movements </li>
 </ul>
 
+<img class="image" style="float: right;" src="./../assets/img/technology_pipeline.png">
+
 Challenges faced: <br/>
 <ul>
 
    <li> Language Families: Differences in audio duration between source and target languages </li>
-    <li>Speaker's Rhythm: Difficulty in replicating the original speaker's rhythm, especially in extempore speech </li>
+    <li>Speaker's Rhythm: Difficulty in replicating the original speaker's rhythm, especially in conversational speech </li>
     <li>Semi-automatic Approach: Balancing automation with maintaining naturalness and accuracy </li>
     <li> Language-specific Challenges: Unique linguistic features and nuances of each Indian language </li>
     <li> Technology Limitations: Dependence on the quality and capabilities of ASR, MT, and TTS systems </li>
