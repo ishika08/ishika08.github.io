@@ -9,6 +9,20 @@ To edit Home page:-
 	 only .html home pages can be hosted on github, So that's the reason)
 	NOTE: You can also write in markdown syntax here
 
+To edit the sidebar icons:
+    Go to:
+	_includes/sidebar.html
+
+To edit the favicon icons:
+    Go to:
+	_data/contact.yml	
+	_data/share.yml	
+
+To add the blog tab in the sidebar:
+    Go to:
+	tabs/blog.md
+
+
 For editing the page use markdown syntax and follow md_syntax.txt for it,
 with addition of markdown you can use HTML and well.
 

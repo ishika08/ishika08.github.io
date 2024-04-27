@@ -45,16 +45,34 @@ As a result, scalable algorithms and software are indispensable components of co
 
 <h3 style="font-weight: bold;">2. Video transcreation of English Lectures to multiple Indian Languages</h3>
 <br>
-This is a description of a Transcreation of Lectures from English to multiple Indian Languages.
-To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. 
+This is a description of a Transcreation of Lectures from English to multiple Indian Languages. To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. <br/>
+Modules Involved: 
+<br/>
+<ul>
+<li> Automatic Speech Recognition (ASR): Transcription of original audio </li>
+<li> Text Correction: Correction and removal of disfluencies </li>
+<li> Domain Term Discovery: Identifying and translating domain-specific terms </li>
+<li> Machine Translation (MT): Text-to-text translation into the target language </li>
+<li> Text Chunking: Chunking of text using target language rhythm </li>
+<li> Text-to-Speech Synthesis (TTS): Synthesis of translated text into speech </li>
+<li> Isochronous Lip-syncing: Matching synthesized speech with original video lip  movements </li>
+</ul>
+
+Challenges faced: <br/>
+<ul>
+
+   <li> Language Families: Differences in audio duration between source and target languages </li>
+    <li>Speaker's Rhythm: Difficulty in replicating the original speaker's rhythm, especially in extempore speech </li>
+    <li>Semi-automatic Approach: Balancing automation with maintaining naturalness and accuracy </li>
+    <li> Language-specific Challenges: Unique linguistic features and nuances of each Indian language </li>
+    <li> Technology Limitations: Dependence on the quality and capabilities of ASR, MT, and TTS systems </li>
+    <li> Resource Constraints: Availability of high-quality training data and models for all languages</li>
+
+</ul>
 <!-- 
    <img class="" style="float: right;" src="./../assets/img/genomegraph.jpg"> -->
 
    <!-- These include (i) development of theoretically well-founded sequence mapping algorithms and heuristics for genome-graphs, (ii) quantification of the benefit of adopting pan-genome approaches, and (iii) designing algorithms to build pan-genome graphs using millions of genomes as input. In each of the three aims, synergy is desired with downstream biological and clinical applications. -->
-
-   <!-- [Sequence to graph alignment using gap-sensitive co-linear chaining](https://www.biorxiv.org/content/10.1101/2022.08.29.505691v2.full.pdf) RECOMB 2023
-   - [On the complexity of sequence to graph alignment](http://cds.iisc.ac.in/faculty/chirag/pubs/2020_jain_complexity.pdf) RECOMB 2019
-   - [Validating paired-end read alignments in sequence graphs](http://cds.iisc.ac.in/faculty/chirag/pubs/2019_jain_validating.pdf) WABI 2019 --> 
 
    <hr>
 
