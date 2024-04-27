@@ -52,7 +52,7 @@ To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here.
 
    <!-- These include (i) development of theoretically well-founded sequence mapping algorithms and heuristics for genome-graphs, (ii) quantification of the benefit of adopting pan-genome approaches, and (iii) designing algorithms to build pan-genome graphs using millions of genomes as input. In each of the three aims, synergy is desired with downstream biological and clinical applications. -->
 
-   <!-- - [Sequence to graph alignment using gap-sensitive co-linear chaining](https://www.biorxiv.org/content/10.1101/2022.08.29.505691v2.full.pdf) RECOMB 2023
+   <!-- [Sequence to graph alignment using gap-sensitive co-linear chaining](https://www.biorxiv.org/content/10.1101/2022.08.29.505691v2.full.pdf) RECOMB 2023
    - [On the complexity of sequence to graph alignment](http://cds.iisc.ac.in/faculty/chirag/pubs/2020_jain_complexity.pdf) RECOMB 2019
    - [Validating paired-end read alignments in sequence graphs](http://cds.iisc.ac.in/faculty/chirag/pubs/2019_jain_validating.pdf) WABI 2019 --> 
 
