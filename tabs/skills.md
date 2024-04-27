@@ -289,7 +289,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://git-scm.com/docs/git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git</a></h5>
                                 </div>
                             </div>
                         </div>

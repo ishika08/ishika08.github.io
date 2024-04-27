@@ -82,7 +82,7 @@ Modules Involved:
 </ul>
 <br/>
 
-<img style="float: right; height: 270px; width: 500px;" src="./../assets/img/technology_pipeline.png">
+<img style="float: right; height: 270px; width: 600px;" src="./../assets/img/technology_pipeline.png">
 <br/>
 
 Challenges faced: <br/>
