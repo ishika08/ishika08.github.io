@@ -57,8 +57,10 @@ Modules Involved:
 <li> Text-to-Speech Synthesis (TTS): Synthesis of translated text into speech </li>
 <li> Isochronous Lip-syncing: Matching synthesized speech with original video lip  movements </li>
 </ul>
+<br/>
 
-<img class="image" style="float: right;" src="./../assets/img/technology_pipeline.png">
+<img style="float: right; height: 200px; width: 500px;" src="./../assets/img/technology_pipeline.png">
+<br/>
 
 Challenges faced: <br/>
 <ul>
