@@ -20,7 +20,7 @@ type: tags
 # **Active Projects**
 
 <br/>
-<h3>**ROLEPLAI**</h3> 
+<h3 style="font-weight: bold;">1. ROLEPLAI</h3>
 
 This solution enables users such as recruiters to conduct simulated conversations for various scenarios, providing them with invaluable practice and feedback. The AI coach delivers objective evaluations at the conclusion of each interaction, highlighting areas for improvement and reinforcing best practices. This innovative approach empowers recruiters to hone their skills and confidently navigate complex recruitment situations, ultimately reducing dependence on traditional, physically present coaches.
 To try the demo, pls click on the [link](https://dexianroleplai.azurewebsites.net) here.
@@ -41,7 +41,9 @@ As a result, scalable algorithms and software are indispensable components of co
    <!-- - [Strain-level metagenomic assignment and compositional estimation for long reads](http://cds.iisc.ac.in/faculty/chirag/pubs/2019_dilthey_strain.pdf) Nature Comm. 2019 -->
 
 
-1. **Video transcreation of English Lectures to multiple Indian Languages** 
+<!-- 1. **Video transcreation of English Lectures to multiple Indian Languages**  -->
+
+<h3 style="font-weight: bold;">2. Video transcreation of English Lectures to multiple Indian Languages</h3>
 <br>
 This is a description of a Transcreation of Lectures from English to multiple Indian Languages.
 To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. 

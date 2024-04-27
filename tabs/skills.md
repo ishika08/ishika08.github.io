@@ -58,7 +58,7 @@ type: skills
                                     <img src="./../assets/img/c-plus-pluslogo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://devdocs.io/cpp/">&nbsp;&nbsp;&nbsp;C++</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://devdocs.io/cpp/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@ type: skills
                                     <img src="./../assets/img/GCP-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">&nbsp;&nbsp;&nbsp;GCP</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://cloud.google.com/docs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GCP</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -231,7 +231,7 @@ type: skills
                                     <img src="./../assets/img/docker-logo.png" class="shadow-sm rounded-circle" height="130" width="130" />
                                 </div>
                                 <div class="user-content">
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.docker.com/engine/">Docker</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="https://docs.docker.com/engine/">&nbsp;&nbsp;Docker</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -289,7 +289,7 @@ type: skills
                                 </div>
                                 <div class="user-content">
                                 <!-- Replace # with hyperlink of the user website or any link -->
-                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">&nbsp;&nbsp;&nbsp;Git</a></h5>
+                                    <h5 class="text-capitalize user-name"><a target="_blank" href="ttps://git-scm.com/docs/git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git</a></h5>
                                 </div>
                             </div>
                         </div>
