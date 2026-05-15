@@ -1,48 +1,207 @@
 ---
 layout: page
-# The Home page layout
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT Licensed
+# The Home page layout - Modern redesign
+# Elegant, professional, and visually appealing
 ---
 
-<head>
-  <link rel="stylesheet" href={{ "/assets/css/main.css," | relative_url }} />
-  <link
-    href="https://fonts.googleapis.com/css?family=Montserrat"
-    rel="stylesheet"
-  />
-  <link
-    href="https://fonts.googleapis.com/css?family=Roboto"
-    rel="stylesheet"
-  />
-</head>
-
-<!--  ----------------------------------------- -->
-<!-- Name and affiliation -->
-
-<!-- Header -->
-<div class="container">
-  <div style="float: right; margin-left: 10px;">
-    <img src="profile-pic.png" alt="Profile Picture" style="width: 450px; height: 350px; border-radius: 20px;">
-  </div>
-  <div>
-    <h1 class="text-muted" style="font-family: Montserrat; font-size: 2rem">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO / HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<section class="hero-section animate-fade-in">
+  <div class="hero-title">
+    <h1 style="margin: 0; font-size: clamp(2rem, 8vw, 4rem);">
       Ishika Gupta
     </h1>
-    <p style="font-family: Montserrat; font-size: 1.03rem">
-      Senior Software Engineer @ <a target="_blank" href="https://dexian.com/it-solutions/">Dexian</a> 
-      <br />
-      Ex-Research scholar @ <a target="_blank" href="https://www.iitm.ac.in/">IIT Madras</a>
-      <br />
-      <a target="_blank" href="http://www.cse.iitm.ac.in/">Department of Computer Science and Engineering</a>
-      <!-- <br />
-      <a target="_blank" href="https://www.iitm.ac.in/">Indian Institute of Technology, Madras</a>
-      <br /> -->
+  </div>
+  
+  <div class="hero-subtitle">
+    <p style="margin: 0; font-size: var(--text-lg);">
+      Senior Software Engineer | AI/ML Specialist | Speech Processing Expert
+    </p>
+    <p style="margin: var(--space-2) 0 0; color: var(--color-text-muted); font-size: var(--text-sm);">
+      Building intelligent solutions that matter
     </p>
   </div>
+
+  <div class="social-links" style="gap: var(--space-3);">
+    <a href="mailto:ishika@cse.iitm.ac.in" class="social-link" title="Email" aria-label="email">
+      <i class="fas fa-envelope"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/ishika-gupta-cs20s057" target="_blank" rel="noopener" class="social-link" title="LinkedIn" aria-label="linkedin">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://github.com/ishika08" target="_blank" rel="noopener" class="social-link" title="GitHub" aria-label="github">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=uqN5AbsAAAAJ&hl=en" target="_blank" rel="noopener" class="social-link" title="Google Scholar" aria-label="google-scholar">
+      <i class="fas fa-graduation-cap"></i>
+    </a>
+    <a href="https://drive.google.com/file/d/1LJGepR7eJJ6sk9PcB8cWvfuFcXCIF8rk/view?usp=sharing" target="_blank" rel="noopener" class="btn btn-primary" style="padding: var(--space-3) var(--space-5); gap: var(--space-2);">
+      <i class="fas fa-file-pdf"></i> Resume
+    </a>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROFILE SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div id="main">
+  <div class="container-sm" style="padding: var(--space-16) var(--space-6);">
+    
+    <section class="profile-section animate-slide-in-up" style="animation-delay: 0.1s;">
+      <div class="profile-image">
+        <img src="{{ site.avatar }}" alt="Ishika Gupta" onerror="this.style.display='none'">
+      </div>
+      
+      <div class="profile-info">
+        <h2>About Me</h2>
+        
+        <div class="subtitle">
+          <a href="https://dexian.com/it-solutions/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none;">
+            Dexian
+          </a> | 
+          <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none;">
+            IIT Madras
+          </a>
+        </div>
+
+        <p>
+          I'm a Senior Software Engineer at <strong>Dexian</strong>, focused on developing proof-of-concept solutions that validate and showcase the effectiveness of innovative proposals. My expertise spans machine learning, deep learning, NLP, and LLM-based applications, with a proven track record of deploying scalable solutions on Azure cloud platforms.
+        </p>
+
+        <p>
+          As an MS research scholar at <strong>IIT Madras</strong>, I specialized in Audio and Speech Processing within the Speech, Music and Vision Lab under <strong>Prof. Hema A. Murthy</strong>. My research concentrated on incorporating expression and prosody into conversational speech synthesis using hybrid statistical-parametric and neural-based TTS models.
+        </p>
+
+        <p>
+          I've contributed significantly to government-sponsored initiatives including the <strong>Bhashini multi-lingual project</strong> by the Government of India and the <strong>NLTM (National Language Translation Mission)</strong> pilot, focusing on speech synthesis and transcreation of lectures into Indian languages with isochronous lip-syncing.
+        </p>
+
+        <div style="display: flex; gap: var(--space-4); flex-wrap: wrap; margin-top: var(--space-6);">
+          <a href="https://github.com/ishika08" target="_blank" rel="noopener" class="btn btn-secondary">
+            <i class="fab fa-github"></i> View GitHub
+          </a>
+          <a href="https://scholar.google.com/citations?user=uqN5AbsAAAAJ&hl=en" target="_blank" rel="noopener" class="btn btn-secondary">
+            <i class="fas fa-book"></i> Publications
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <!-- ROLES OF INTEREST -->
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <section class="featured-section" style="margin-top: var(--space-16);">
+      <h3 style="margin-top: 0;">Interested in Roles For</h3>
+      
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--space-6); margin-top: var(--space-6);">
+        <div class="content-card" style="padding: var(--space-6);">
+          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-primary);">
+            <i class="fas fa-database"></i>
+          </div>
+          <h4 style="margin-top: 0;">Data Scientist</h4>
+          <p style="margin: 0; font-size: var(--text-sm);">
+            ML/DL, statistical analysis, and predictive modeling
+          </p>
+        </div>
+
+        <div class="content-card" style="padding: var(--space-6);">
+          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-secondary);">
+            <i class="fas fa-microphone"></i>
+          </div>
+          <h4 style="margin-top: 0;">Speech Analyst</h4>
+          <p style="margin: 0; font-size: var(--text-sm);">
+            Audio processing, phonetics, and speech technology
+          </p>
+        </div>
+
+        <div class="content-card" style="padding: var(--space-6);">
+          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-accent);">
+            <i class="fas fa-project-diagram"></i>
+          </div>
+          <h4 style="margin-top: 0;">Data Engineer</h4>
+          <p style="margin: 0; font-size: var(--text-sm);">
+            Data pipelines, infrastructure, and cloud solutions
+          </p>
+        </div>
+
+        <div class="content-card" style="padding: var(--space-6);">
+          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-primary);">
+            <i class="fas fa-comments"></i>
+          </div>
+          <h4 style="margin-top: 0;">Conversational AI Engineer</h4>
+          <p style="margin: 0; font-size: var(--text-sm);">
+            LLM applications, dialogue systems, and NLP
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <!-- KEY ACHIEVEMENTS -->
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <section style="margin-top: var(--space-16);">
+      <h3 style="margin-top: 0;">Key Contributions</h3>
+      
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-dot">🎯</div>
+          <div class="timeline-content">
+            <div class="timeline-title">Bhashini Multi-lingual Project</div>
+            <p style="margin: 0; font-size: var(--text-sm);">
+              Contributed significantly to India's government initiative for multi-lingual speech synthesis and translation across Indian languages
+            </p>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-dot">🎬</div>
+          <div class="timeline-content">
+            <div class="timeline-title">NLTM Pilot: Lecture Transcreation</div>
+            <p style="margin: 0; font-size: var(--text-sm);">
+              Involved in synthesizing speech in Hindi and Tamil, and transcreating English lectures into Indian languages with isochronous lip-syncing
+            </p>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-dot">🤖</div>
+          <div class="timeline-content">
+            <div class="timeline-title">AI & LLM Solutions</div>
+            <p style="margin: 0; font-size: var(--text-sm);">
+              Developed and deployed proof-of-concept solutions for cutting-edge AI applications on Azure cloud, maintaining high efficiency and quality standards
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <!-- CTA SECTION -->
+    <!-- ═══════════════════════════════════════════════════════════ -->
+    <section class="cta-section" style="margin-top: var(--space-16); margin-bottom: var(--space-16);">
+      <h3>Let's Collaborate</h3>
+      <p style="margin: 0 0 var(--space-6); opacity: 0.9;">
+        Interested in working together on innovative AI/ML solutions, speech processing projects, or exploring opportunities? Let's connect.
+      </p>
+      
+      <div class="cta-buttons">
+        <a href="mailto:ishika@cse.iitm.ac.in" class="btn btn-secondary">
+          <i class="fas fa-envelope"></i> Send Email
+        </a>
+        <a href="https://www.linkedin.com/in/ishika-gupta-cs20s057" target="_blank" rel="noopener" class="btn btn-secondary">
+          <i class="fab fa-linkedin"></i> Connect on LinkedIn
+        </a>
+        <a href="https://github.com/ishika08" target="_blank" rel="noopener" class="btn btn-secondary">
+          <i class="fab fa-github"></i> Explore Projects
+        </a>
+      </div>
+    </section>
+
+  </div>
 </div>
+
+<hr>
 
 
 <!--  ----------------------------------------- -->
