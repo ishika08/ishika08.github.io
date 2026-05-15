@@ -5,26 +5,26 @@
 
 /* ─── ROOT VARIABLES ─── */
 :root {
-  /* Color Palette - Modern & Professional */
+  /* Color Palette - Warm Wood Brown Theme */
   --color-primary: #0ea5e9;        /* Sky blue (accent) */
   --color-primary-dark: #0284c7;   /* Deeper sky blue */
   --color-secondary: #06b6d4;      /* Cyan accent */
   --color-accent: #f43f5e;         /* Rose (subtle accent) */
   
-  /* Neutral palette */
+  /* Neutral palette - Wood Brown Theme */
   --color-white: #ffffff;
-  --color-bg-light: #f8fafc;       /* Very light gray */
-  --color-bg-lighter: #f1f5f9;     /* Light gray */
-  --color-border: #e2e8f0;         /* Subtle border */
-  --color-text-primary: #1e293b;   /* Near black for text */
-  --color-text-secondary: #64748b; /* Muted text */
-  --color-text-muted: #94a3b8;     /* Very muted */
+  --color-bg-light: #8d6e63;       /* Light warm brown */
+  --color-bg-lighter: #6d4c41;     /* Medium warm brown */
+  --color-border: #a1887f;         /* Brown border */
+  --color-text-primary: #fff5f1;   /* Warm white text */
+  --color-text-secondary: #efebe9; /* Light taupe text */
+  --color-text-muted: #d7ccc8;     /* Muted brown */
   
-  /* Dark mode */
-  --color-dark-bg: #0f172a;
-  --color-dark-bg-secondary: #1e293b;
-  --color-dark-border: #334155;
-  --color-dark-text: #f1f5f9;
+  /* Dark mode - Wood Brown Theme */
+  --color-dark-bg: #4e342e;        /* Dark rich brown */
+  --color-dark-bg-secondary: #5d4037;  /* Navy-brown secondary */
+  --color-dark-border: #6d4c41;    /* Brown border */
+  --color-dark-text: #efebe9;      /* Light text on brown */
   
   /* Shadows - Layered depth */
   --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
@@ -137,13 +137,15 @@ body {
   font-family: var(--font-primary);
   font-size: var(--text-base);
   color: var(--color-text-primary);
-  background-color: var(--color-white);
+  background-color: #6d4c41 !important;
+  background: linear-gradient(135deg, #5d4037 0%, #6d4c41 50%, #8d6e63 100%) !important;
   line-height: var(--line-normal);
   transition: background-color var(--transition-base), color var(--transition-base);
 }
 
 html[mode="dark"] body {
-  background-color: var(--color-dark-bg);
+  background-color: #4e342e !important;
+  background: linear-gradient(135deg, #3e2723 0%, #4e342e 50%, #5d4037 100%) !important;
   color: var(--color-dark-text);
 }
 
