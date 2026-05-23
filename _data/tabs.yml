@@ -26,6 +26,10 @@
   icon: "fas fa-users"
   path: tabs
   url: skills
+- name: "Blogs"
+  icon: "fas fa-blog"
+  path: tabs
+  url: blog
 - name: "Publications"
   icon: "fas fa-archive"
   path: tabs

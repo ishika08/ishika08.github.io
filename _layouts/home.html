@@ -8,37 +8,49 @@ layout: page
 <!-- HERO / HERO SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <section class="hero-section animate-fade-in">
-  <div class="hero-title">
-    <h1 style="margin: 0; font-size: clamp(2rem, 8vw, 4rem);">
-      Ishika Gupta
-    </h1>
-  </div>
-  
-  <div class="hero-subtitle">
-    <p style="margin: 0; font-size: var(--text-lg);">
-      Senior Software Engineer | AI/ML Specialist | Speech Processing Expert
-    </p>
-    <p style="margin: var(--space-2) 0 0; color: var(--color-text-muted); font-size: var(--text-sm);">
-      Building intelligent solutions that matter
-    </p>
-  </div>
+  <div class="hero-layout">
+    <div class="hero-copy">
+      <div class="hero-title">
+        <h1 style="margin: 0; font-size: clamp(2rem, 8vw, 4rem);">
+          Ishika Gupta
+        </h1>
+      </div>
+      
+      <div class="hero-subtitle">
+        <p style="margin: 0; font-size: var(--text-lg);">
+          Senior AI Engineer @ <Voicecare class="ai" style="color: #e63946; font-weight: 600;">Voicecare.ai</Voicecare> | Ex-Dexian| Ex-research scholar @ <span style="color: #e63946; font-weight: 600;">IIT Madras</span>
+        </p>
+        <p class="hero-tagline">
+          Building intelligent solutions that matter
+        </p>
+      </div>
 
-  <div class="social-links" style="gap: var(--space-3);">
-    <a href="mailto:ishika@cse.iitm.ac.in" class="social-link" title="Email" aria-label="email">
-      <i class="fas fa-envelope"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/ishika-gupta-cs20s057" target="_blank" rel="noopener" class="social-link" title="LinkedIn" aria-label="linkedin">
-      <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://github.com/ishika08" target="_blank" rel="noopener" class="social-link" title="GitHub" aria-label="github">
-      <i class="fab fa-github"></i>
-    </a>
-    <a href="https://scholar.google.com/citations?user=uqN5AbsAAAAJ&hl=en" target="_blank" rel="noopener" class="social-link" title="Google Scholar" aria-label="google-scholar">
-      <i class="fas fa-graduation-cap"></i>
-    </a>
-    <a href="https://drive.google.com/file/d/1LJGepR7eJJ6sk9PcB8cWvfuFcXCIF8rk/view?usp=sharing" target="_blank" rel="noopener" class="btn btn-primary" style="padding: var(--space-3) var(--space-5); gap: var(--space-2);">
-      <i class="fas fa-file-pdf"></i> Resume
-    </a>
+      <div class="social-links hero-actions" style="gap: var(--space-3);">
+        <a href="mailto:ishika@cse.iitm.ac.in" class="social-link" title="Email" aria-label="email">
+          <i class="fas fa-envelope"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/ishika-gupta-cs20s057" target="_blank" rel="noopener" class="social-link" title="LinkedIn" aria-label="linkedin">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://github.com/ishika08" target="_blank" rel="noopener" class="social-link" title="GitHub" aria-label="github">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://scholar.google.com/citations?user=uqN5AbsAAAAJ&hl=en" target="_blank" rel="noopener" class="social-link" title="Google Scholar" aria-label="google-scholar">
+          <i class="fas fa-graduation-cap"></i>
+        </a>
+        <a href="https://drive.google.com/file/d/1LJGepR7eJJ6sk9PcB8cWvfuFcXCIF8rk/view?usp=sharing" target="_blank" rel="noopener" class="btn btn-primary" style="padding: var(--space-3) var(--space-5); gap: var(--space-2);">
+          <i class="fas fa-file-pdf"></i> Resume
+        </a>
+      </div>
+    </div>
+
+    <div class="hero-portrait-wrap" aria-hidden="true">
+      <div class="hero-portrait-orbit"></div>
+      <div class="hero-portrait-glow"></div>
+      <div class="hero-portrait">
+        <img src="{{ site.avatar }}" alt="Ishika Gupta portrait" onerror="this.style.display='none'">
+      </div>
+    </div>
   </div>
 </section>
 
@@ -57,24 +69,24 @@ layout: page
         <h2>About Me</h2>
         
         <div class="subtitle">
-          <a href="https://dexian.com/it-solutions/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none;">
-            Dexian
-          </a> | 
-          <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none;">
-            IIT Madras
+          <a href="https://voicecare.ai/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none; font-weight: 600;">
+            Voicecare.ai
+          </a> | ex-<span style="color: var(--color-primary); font-weight: 600;">Dexian</span> |
+          <a href="https://www.iitm.ac.in/" target="_blank" rel="noopener" style="color: var(--color-primary); text-decoration: none; font-weight: 600;">
+            ex-MS Scholar at IIT Madras
           </a>
         </div>
 
         <p>
-          I'm a Senior Software Engineer at <strong>Dexian</strong>, focused on developing proof-of-concept solutions that validate and showcase the effectiveness of innovative proposals. My expertise spans machine learning, deep learning, NLP, and LLM-based applications, with a proven track record of deploying scalable solutions on Azure cloud platforms.
+          I'm a <strong>Senior AI Engineer at <span style="color: var(--color-primary);">Voicecare.ai</span></strong>, building voice AI agents that help providers and RCM enterprises automate administrative burden and improve patient outcomes. My work blends product thinking, model evaluation, and system design for reliable, high-utility conversational AI.
         </p>
 
         <p>
-          As an MS research scholar at <strong>IIT Madras</strong>, I specialized in Audio and Speech Processing within the Speech, Music and Vision Lab under <strong>Prof. Hema A. Murthy</strong>. My research concentrated on incorporating expression and prosody into conversational speech synthesis using hybrid statistical-parametric and neural-based TTS models.
+          I’m also building a simulation engine between the voice agent and payer systems. It stress-tests thousands of domain-specific scenarios, making validation reusable across architectures and hardening systems far faster than manual testing.
         </p>
 
         <p>
-          I've contributed significantly to government-sponsored initiatives including the <strong>Bhashini multi-lingual project</strong> by the Government of India and the <strong>NLTM (National Language Translation Mission)</strong> pilot, focusing on speech synthesis and transcreation of lectures into Indian languages with isochronous lip-syncing.
+          My earlier work at <strong><span style="color: var(--color-primary);">Dexian</span></strong> and my research at <strong><span style="color: var(--color-primary);">IIT Madras</span></strong> shaped my background in speech, NLP, and scalable AI systems. That foundation now informs the voice infrastructure and validation work I lead at <span style="color: var(--color-primary);">Voicecare.ai</span>.
         </p>
 
         <div style="display: flex; gap: var(--space-4); flex-wrap: wrap; margin-top: var(--space-6);">
@@ -89,91 +101,37 @@ layout: page
     </section>
 
     <!-- ═══════════════════════════════════════════════════════════ -->
-    <!-- ROLES OF INTEREST -->
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <section class="featured-section" style="margin-top: var(--space-16);">
-      <h3 style="margin-top: 0;">Interested in Roles For</h3>
-      
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--space-6); margin-top: var(--space-6);">
-        <div class="content-card" style="padding: var(--space-6);">
-          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-primary);">
-            <i class="fas fa-database"></i>
-          </div>
-          <h4 style="margin-top: 0;">Data Scientist</h4>
-          <p style="margin: 0; font-size: var(--text-sm);">
-            ML/DL, statistical analysis, and predictive modeling
-          </p>
-        </div>
-
-        <div class="content-card" style="padding: var(--space-6);">
-          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-secondary);">
-            <i class="fas fa-microphone"></i>
-          </div>
-          <h4 style="margin-top: 0;">Speech Analyst</h4>
-          <p style="margin: 0; font-size: var(--text-sm);">
-            Audio processing, phonetics, and speech technology
-          </p>
-        </div>
-
-        <div class="content-card" style="padding: var(--space-6);">
-          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-accent);">
-            <i class="fas fa-project-diagram"></i>
-          </div>
-          <h4 style="margin-top: 0;">Data Engineer</h4>
-          <p style="margin: 0; font-size: var(--text-sm);">
-            Data pipelines, infrastructure, and cloud solutions
-          </p>
-        </div>
-
-        <div class="content-card" style="padding: var(--space-6);">
-          <div style="font-size: 2rem; margin-bottom: var(--space-3); color: var(--color-primary);">
-            <i class="fas fa-comments"></i>
-          </div>
-          <h4 style="margin-top: 0;">Conversational AI Engineer</h4>
-          <p style="margin: 0; font-size: var(--text-sm);">
-            LLM applications, dialogue systems, and NLP
-          </p>
-        </div>
-      </div>
-    </section>
-
-    <!-- ═══════════════════════════════════════════════════════════ -->
-    <!-- KEY ACHIEVEMENTS -->
+    <!-- CAREER TIMELINE -->
     <!-- ═══════════════════════════════════════════════════════════ -->
     <section style="margin-top: var(--space-16);">
-      <h3 style="margin-top: 0;">Key Contributions</h3>
-      
-      <div class="timeline">
-        <div class="timeline-item">
-          <div class="timeline-dot">🎯</div>
-          <div class="timeline-content">
-            <div class="timeline-title">Bhashini Multi-lingual Project</div>
-            <p style="margin: 0; font-size: var(--text-sm);">
-              Contributed significantly to India's government initiative for multi-lingual speech synthesis and translation across Indian languages
-            </p>
-          </div>
-        </div>
+      <h3 style="margin-top: 0;">Career Timeline</h3>
+      <p style="margin-top: 0; color: var(--color-primary); font-weight: 500; opacity: 0.9;">
+        A quick view of the path that led to my current work in voice AI.
+      </p>
 
-        <div class="timeline-item">
-          <div class="timeline-dot">🎬</div>
-          <div class="timeline-content">
-            <div class="timeline-title">NLTM Pilot: Lecture Transcreation</div>
-            <p style="margin: 0; font-size: var(--text-sm);">
-              Involved in synthesizing speech in Hindi and Tamil, and transcreating English lectures into Indian languages with isochronous lip-syncing
-            </p>
-          </div>
-        </div>
-
-        <div class="timeline-item">
-          <div class="timeline-dot">🤖</div>
-          <div class="timeline-content">
-            <div class="timeline-title">AI & LLM Solutions</div>
-            <p style="margin: 0; font-size: var(--text-sm);">
-              Developed and deployed proof-of-concept solutions for cutting-edge AI applications on Azure cloud, maintaining high efficiency and quality standards
-            </p>
-          </div>
-        </div>
-      </div>
+      <ul class="timeline">
+        <li>
+          <span class="timeline-date">2026 - Present</span>
+          <span class="timeline-event">Senior AI Engineer at <a href="https://voicecare.ai/" target="_blank" rel="noopener" style="color: var(--color-primary); font-weight: 600;">Voicecare.ai</a></span>
+          <p style="margin: 0.35rem 0 0; font-size: var(--text-sm);">
+            Building voice AI agents for providers and RCM enterprises, plus a simulation engine for payer stress-testing across thousands of scenarios.
+          </p>
+        </li>
+        <li>
+          <span class="timeline-date">2023 - 2026</span>
+          <span class="timeline-event">Senior Software Engineer at <span style="color: var(--color-primary); font-weight: 600;">Dexian</span></span>
+          <p style="margin: 0.35rem 0 0; font-size: var(--text-sm);">
+            Shipped proof-of-concept AI systems and worked across ML, NLP, LLMs, and cloud deployment.
+          </p>
+        </li>
+        <li>
+          <span class="timeline-date">2019 - 2023</span>
+          <span class="timeline-event">MS Research Scholar at <span style="color: var(--color-primary); font-weight: 600;">IIT Madras</span></span>
+          <p style="margin: 0.35rem 0 0; font-size: var(--text-sm);">
+            Specialized in conversational speech synthesis, prosody, and expressive TTS (Speech and Audio Processing) under Prof. Hema A. Murthy.
+          </p>
+        </li>
+      </ul>
     </section>
 
     <!-- ═══════════════════════════════════════════════════════════ -->
@@ -222,18 +180,100 @@ layout: page
 <!-- Content -->
 
 <div class="container" style="margin-top: 15px">
-  <p style="font-size: 1.03rem">
-    Hi, I am working as a Senior Software Engineer at <a href="https://dexian.com/">Dexian</a>. My work mainly comprises developing POCs for them to validate and showcase the feasibility and effectiveness of the proposed solutions. As a data scientist, I worked on designing solutions for trending problems in ML/DL, NLP. I have worked on LLM-based projects too, and deployed them on the Azure cloud platform while maintaining high efficiency and quality. 
-  </p>
-  <p style="font-size: 1.03rem">
-    Prior to my joining at Dexian, I was working as a MS research scholar in Computer Science department at <a href="https://www.iitm.ac.in/">Indian Institute of Technology, Madras</a>. I have been the part of <a href="http://www.cse.iitm.ac.in/lab_details.php?arg=MTQ=">Speech, Music and Vision (SMV) Lab</a> and worked under the guidance of <a href="http://www.cse.iitm.ac.in/~hema/">Prof Hema A Murthy </a> with Audio and Speech Processing as my MS specialization. My research work focused on incorporating expression and prosody for conversational speech synthesis using a hybrid of statistical parametric and neural-based TTS models. At the same time, I got the opportunity to work as a project officer, on many goverement sponsered projects with MeiTy being the most prominient one. 
-  <br />
-  Here are the list of things I worked on:
-  <ul>
-    <li>I have contributed a greater extent in the "Bhashini multi-lingual project," a major initiative undertaken by the govt. of India</li>
-    <li>I was involved in NLTM pilot proposal is to synthesize speech in Indian languages, in particular Hindi and Tamil, and then transcreate the English lectures into various Indian languages, using isochronous lip-syncing</li>
-  </ul>  
-  </p>
+  <!-- Story Toggle Button -->
+  <div style="text-align: center; margin-bottom: 2rem;">
+    <button id="storyButton" type="button" style="
+      background: linear-gradient(135deg, var(--color-primary) 0%, #06b6d4 100%);
+      color: white;
+      border: none;
+      padding: 0.9rem 2rem;
+      border-radius: 12px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 8px 24px rgba(14, 165, 233, 0.25);
+      transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+      font-family: 'Montserrat', sans-serif;
+    " 
+    onmouseover="this.style.boxShadow='0 12px 32px rgba(14, 165, 233, 0.35)'; this.style.transform='translateY(-3px)';"
+    onmouseout="this.style.boxShadow='0 8px 24px rgba(14, 165, 233, 0.25)'; this.style.transform='translateY(0)';">
+      📖 Discover My Journey
+    </button>
+  </div>
+
+  <!-- Hidden Story Content -->
+  <div id="storyContent" style="
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.8s cubic-bezier(0.34, 1.56, 0.64, 1), opacity 0.8s ease-out;
+    opacity: 0;
+  ">
+    <div style="animation: slideInDown 0.8s ease-out both; animation-delay: 0.1s; padding: 2rem 0;">
+      <p style="font-size: 1.03rem">
+        Hi, I am currently working as a <strong>Senior AI Engineer at <a href="https://voicecare.ai/" style="color: var(--color-primary); font-weight: 600;">Voicecare.ai</a></strong>, where I'm building cutting-edge voice AI agents designed to help healthcare providers and RCM (Revenue Cycle Management) enterprises automate administrative workflows and improve patient outcomes. My work spans the entire product lifecycle—from designing conversational AI architectures to evaluating LLM performance in real-world healthcare scenarios. I'm also developing a sophisticated simulation engine that stress-tests voice agents across thousands of domain-specific scenarios, enabling faster validation and more robust systems across different architectures. This combines my deep expertise in conversational AI, LLMs, speech processing, and system design.
+      </p>
+
+      <p style="font-size: 1.03rem">
+        Before joining <span style="color: var(--color-primary); font-weight: 600;">Voicecare.ai</span>, I worked as a <strong>Senior Software Engineer at <a href="https://dexian.com/" style="color: var(--color-primary); font-weight: 600;">Dexian</a></strong>, where I had the opportunity to work on diverse, high-impact projects. My focus was on building <strong>end-to-end LLM-based applications</strong> and proof-of-concept solutions that demonstrated the feasibility and effectiveness of innovative AI systems. Specifically, I:
+      </p>
+
+      <ul style="font-size: 1.03rem; margin-left: 20px;">
+        <li>Designed and deployed <strong>production-grade LLM-powered solutions</strong> on the <strong>Azure cloud platform</strong>, ensuring high efficiency, scalability, and quality standards</li>
+        <li>Worked on end-to-end ML/DL pipelines, from data preprocessing and model training to fine-tuning and evaluation</li>
+        <li>Built solutions for trending problems in NLP, including prompt engineering, retrieval-augmented generation (RAG), and conversational systems</li>
+        <li>Collaborated on validating and showcasing the effectiveness of proposed AI solutions to stakeholders</li>
+      </ul>
+
+      <p style="font-size: 1.03rem; margin-top: 1rem;">
+        Prior to joining <span style="color: var(--color-primary); font-weight: 600;">Dexian</span>, I was an <strong>MS Research Scholar in Computer Science</strong> at <a href="https://www.iitm.ac.in/" style="color: var(--color-primary); font-weight: 600;">Indian Institute of Technology, Madras</a>, where I was part of the <a href="http://www.cse.iitm.ac.in/lab_details.php?arg=MTQ=">Speech, Music and Vision (SMV) Lab</a> under the guidance of <a href="http://www.cse.iitm.ac.in/~hema/">Prof Hema A Murthy</a>. My research focused on <strong>conversational speech synthesis with expression and prosody</strong>, combining statistical parametric and neural network-based TTS models to create more natural, human-like speech. During this period, I also served as a project officer on several government-sponsored initiatives:
+      </p>
+
+      <ul style="font-size: 1.03rem; margin-left: 20px;">
+        <li>Contributed significantly to the <strong>"Bhashini multi-lingual project,"</strong> a major government-of-India initiative aimed at enabling language accessibility and inclusivity across Indian languages</li>
+        <li>Worked on the <strong>NLTM pilot proposal</strong> to synthesize speech in Indian languages (Hindi and Tamil) and transcreate English lectures into various Indian languages using isochronous lip-syncing technology</li>
+      </ul>
+    </div>
+  </div>
+
+  <style>
+    @keyframes slideInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .story-expanded #storyContent {
+      max-height: 3000px !important;
+      opacity: 1 !important;
+    }
+  </style>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const storyButton = document.getElementById('storyButton');
+      const storyContent = document.getElementById('storyContent');
+      let isExpanded = false;
+
+      storyButton.addEventListener('click', function() {
+        isExpanded = !isExpanded;
+        
+        if (isExpanded) {
+          storyContent.style.maxHeight = '3000px';
+          storyContent.style.opacity = '1';
+          storyButton.textContent = '📖 Hide My Journey';
+        } else {
+          storyContent.style.maxHeight = '0';
+          storyContent.style.opacity = '0';
+          storyButton.textContent = '📖 Discover My Journey';
+        }
+      });
+    });
+  </script>
 
   <!-- <p
     style="
@@ -255,7 +295,6 @@ layout: page
   <p style="margin-left: 20px; font-size: 1.03rem">
     <a style="font-weight: bolder; font-size: 1.7rem;">•</a> Data scientist <br />
     <a style="font-weight: bolder; font-size: 1.7rem;">•</a> Speech Analyst<br />
-    <a style="font-weight: bolder; font-size: 1.7rem;">•</a> Data Engineer<br />
     <a style="font-weight: bolder; font-size: 1.7rem;">•</a> Conversational AI Engineer<br />
     <!-- <a style="font-weight: bolder; font-size: 1.7rem;">•</a> Algorithms design and analysis<br />
     <a style="font-weight: bolder; font-size: 1.7rem;">•</a> High performance computing -->

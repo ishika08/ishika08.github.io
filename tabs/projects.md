@@ -1,106 +1,109 @@
 ---
 title: Projects
 type: tags
-# All the Tags of posts.
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
 
 <head>
-  <link
-    href="https://fonts.googleapis.com/css?family=Montserrat"
-    rel="stylesheet"
-  />
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
   <link rel="stylesheet" href="../../assets/css/main.css" />
-  <link rel="stylesheet" href="../../assets/css/project.css" />
+  <link rel="stylesheet" href="../../assets/css/modern-components.css" />
 </head>
 
-# **Active Projects**
+<body>
+  <main class="container">
+    <section class="projects">
+      <h1 class="text-center">Active Projects</h1>
 
-<br/>
-<h3 style="font-weight: bold;">1. ROLEPLAI</h3>
+      <div class="project-item">
+        <h2>Customer Intelligence Report Generation</h2>
+        <p class="project-kicker">Agentic Framework | AI Automation</p>
+        
+          <p>
+            Accelerates customer intelligence reporting through intelligent multi-agent AI automation, transforming manual research workflows into fast, consistent, data-driven insights. Combines web scraping, data aggregation, and LLM-powered analysis to deliver comprehensive business intelligence with minimal human intervention.
+          </p>
+        
+          <h3>Problem Statement</h3>
+        <p>Manual generation of customer intelligence reports was slow, labor-intensive, and prone to inconsistency, making it difficult to deliver timely, actionable insights for business decisions.</p>
 
-This solution enables users such as recruiters to conduct simulated conversations for various scenarios, providing them with invaluable practice and feedback. The AI coach delivers objective evaluations at the conclusion of each interaction, highlighting areas for improvement and reinforcing best practices. This innovative approach empowers recruiters to hone their skills and confidently navigate complex recruitment situations, ultimately reducing dependence on traditional, physically present coaches.
-To try the demo, pls click on the [link](https://dexianroleplai.azurewebsites.net) here.
+        <h3>Solution</h3>
+        <ul>
+          <li>Developed a <strong>multi-agent AI framework using Crew AI</strong> to automate data retrieval, analysis, and synthesis</li>
+          <li>Implemented <strong>web scraping</strong> (BeautifulSoup, Playwright) for dynamic websites and YouTube data extraction</li>
+          <li>Integrated <strong>Azure SQL</strong> for robust data management and storage</li>
+          <li>Deployed on <strong>scalable Azure cloud</strong> infrastructure for enterprise reliability</li>
+        </ul>
 
+        <h3>Impact</h3>
+        <ul>
+          <li><strong>65% faster</strong> report turnaround time</li>
+          <li><strong>70% reduction</strong> in manual research effort</li>
+          <li>Improved consistency and quality of intelligence delivery</li>
+          <li>Freed up resources for deeper analytics and strategic initiatives</li>
+        </ul>
+      </div>
 
-   <img class="image" style="float: right;" src="./../assets/img/roleplai.gif">
+      <div class="project-item">
+        <h2>Business Process Automation</h2>
+        <p class="project-kicker">LLM Automation | BPMN Generation</p>
+        
+          <p>
+            Streamlines business process documentation and automation through LLM-powered intelligence, transforming unstructured meeting data into structured BPMN diagrams and comprehensive business requirement documents. Combines RAG, OCR, and semantic search to empower teams with intelligent automation.
+          </p>
+        
+        <h3>Problem Statement</h3>
+        <p>Manually creating BPMN (Business Process Model and Notation) diagrams and business requirement documents from diverse meeting inputs is time-consuming for Business Analysts and prone to missing important context.</p>
 
-<br>
-Features:
-<br>
-<ul>
-<li> AI-powered coaching solution for simulated conversations </li>
-<li>  Role-playing defined personas within specific contexts </li>
-<li>  Highly customizable and on-demand coaching experience </li>
-<li> Objective evaluations at the conclusion of each interaction </li>
-<li> Highlights areas for improvement and reinforces best practices </li>
-<li> Speech mode for interactive voice-based interactions </li>
-<li> Whisper model for converting speech to text </li>
-</ul>
-<br>
+        <h3>Solution</h3>
+        <ul>
+          <li>Built <strong>LLM automation application</strong> with LlamaIndex RAG for intelligent document generation</li>
+          <li>Integrated <strong>Deepseek OCR</strong> for precise data extraction from meeting notes and documents</li>
+          <li>Implemented <strong>semantic search capabilities</strong> for intelligent document retrieval and analysis</li>
+          <li>Added <strong>multi-document chat interface</strong> for team collaboration and refinement</li>
+          <li>Deployed on <strong>Azure cloud</strong> for seamless integration into existing enterprise pipelines</li>
+        </ul>
 
-Future Functionalities: <br>
-<ul>
-  <li>  Incorporating visual avatar for the roleplay coach </li>
- <li>   Modulating the emotion of the coach's speech </li>
-</ul>
-<br>
+        <h3>Impact</h3>
+        <ul>
+          <li>Accelerated business process automation workflow</li>
+          <li>Improved documentation accuracy and completeness</li>
+          <li>Empowered teams to generate comprehensive requirement documents efficiently</li>
+          <li>Minimized manual intervention and reduced human error</li>
+        </ul>
+      </div>
 
-Limitations: <br>
+      <div class="project-item">
+        <h2>ROLEPLAI</h2>
+        <p class="project-kicker">LLM-Powered Simulation | Recruitment Training</p>
+        
+        <p>
+          This solution enables users such as recruiters to conduct simulated conversations for various scenarios, providing them with invaluable practice and feedback. The AI coach delivers objective evaluations at the conclusion of each interaction, highlighting areas for improvement and reinforcing best practices. This innovative approach empowers recruiters to hone their skills and confidently navigate complex recruitment situations, ultimately reducing dependence on traditional, physically present coaches.
+        </p>
 
-  <li>Dependence on AI for coaching may lack the personal touch of human coaches </li>
-  <li> Limited ability to handle complex and nuanced scenarios compared to human coaches </li>
-  <br>
-   <hr>
-<!-- 1. **Algorithmic techniques for genome resequencing.**
-   Mapping sequences to a reference genome is often the first computational step in deriving biological insights from genomic data. Accurate mapping of sequences is key to predict genetic or epigenetic variation. Doing this precisely has been challenging as human and other mammalian genomes are [riddled with near-identical repetitive sequences](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002384). Such repeats often confuse existing sequence mappers, resulting in false-positive alignments and poor confidence scores. Desirable characteristics of a mapper include: (i) efficiency of the algorithm, (ii) high sensitivity and specificity, and (iii) scalability to large data sets and human genomes. In this project, we aim to develop provably-good and practical 'repeat-aware' mapping algorithms that meet these expectations. -->
-<!-- 
-   <img class="" style="float: right;" src="./../assets/img/resequencing.jpg">
+        <p>Transforms candidate interview preparation with immersive LLM-powered simulation and AI-based assessment.</p>
+        
+        <h3>Problem Statement</h3>
+        <p>Traditional candidate interviews and recruiter training are resource-intensive, lack standardization, and provide limited feedback for improvement.</p>
 
-   <!-- - [Weighted minimizer sampling improves long read mapping](http://cds.iisc.ac.in/faculty/chirag/pubs/2020_jain_weighted.pdf) ISMB 2020
-   <!-- - [Strain-level metagenomic assignment and compositional estimation for long reads](http://cds.iisc.ac.in/faculty/chirag/pubs/2019_dilthey_strain.pdf) Nature Comm. 2019 -->
+        <h3>Solution</h3>
+        <ul>
+          <li>Developed an <strong>LLM-powered recruitment platform using GPT-4.0</strong> to conduct simulated interviews with realistic scenarios</li>
+          <li>Implemented <strong>self-evaluating rubrics</strong> that provide objective, standardized feedback after each interaction</li>
+          <li>Built <strong>AI-driven customization</strong> for interactive, role-play-based scenarios tailored to specific roles and profiles</li>
+          <li>Integrated <strong>advanced speech recognition</strong> (Whisper) and <strong>text-to-speech</strong> for immersive, realistic simulations</li>
+          <li>Designed <strong>scalable architecture</strong> supporting diverse recruiter applications and deployment scenarios</li>
+        </ul>
 
-
-<!-- 1. **Video transcreation of English Lectures to multiple Indian Languages**  -->
-
-<h3 style="font-weight: bold;">2. Video transcreation of English Lectures to multiple Indian Languages</h3>
-<br>
-This is a description of a Transcreation of Lectures from English to multiple Indian Languages. To try the demo, pls click on the [link](https://asr.iitm.ac.in/demo/avr) here. <br/> <br/>
-Modules Involved: 
-<br/>
-<ul>
-<li> Automatic Speech Recognition (ASR): Transcription of original audio </li>
-<li> Text Correction: Correction and removal of disfluencies </li>
-<li> Domain Term Discovery: Identifying and translating domain-specific terms </li>
-<li> Machine Translation (MT): Text-to-text translation into the target language </li>
-<li> Text Chunking: Chunking of text using target language rhythm </li>
-<li> Text-to-Speech Synthesis (TTS): Synthesis of translated text into speech </li>
-<li> Isochronous Lip-syncing: Matching synthesized speech with original video lip  movements </li>
-</ul>
-<br/>
-
-<img style="float: right; height: 270px; width: 600px;" src="./../assets/img/technology_pipeline.png">
-<br/>
-
-Challenges faced: <br/>
-<ul>
-
-   <li> Language Families: Differences in audio duration between source and target languages </li>
-    <li>Speaker's Rhythm: Difficulty in replicating the original speaker's rhythm, especially in conversational speech </li>
-    <li>Semi-automatic Approach: Balancing automation with maintaining naturalness and accuracy </li>
-    <li> Language-specific Challenges: Unique linguistic features and nuances of each Indian language </li>
-    <li> Technology Limitations: Dependence on the quality and capabilities of ASR, MT, and TTS systems </li>
-    <li> Resource Constraints: Availability of high-quality training data and models for all languages</li>
-
-</ul>
-<!-- 
-   <img class="" style="float: right;" src="./../assets/img/genomegraph.jpg"> -->
-
-   <!-- These include (i) development of theoretically well-founded sequence mapping algorithms and heuristics for genome-graphs, (ii) quantification of the benefit of adopting pan-genome approaches, and (iii) designing algorithms to build pan-genome graphs using millions of genomes as input. In each of the three aims, synergy is desired with downstream biological and clinical applications. -->
-
-   <hr>
+        <h3>Impact</h3>
+        <ul>
+          <li>Drove <strong>standardized evaluation</strong> across all interview scenarios</li>
+          <li>Improved <strong>recruiter readiness</strong> and interview quality</li>
+          <li>Cut <strong>training time</strong> with AI-driven interview simulations</li>
+          <li>Automated <strong>question generation</strong> for roles, profiles, and descriptions</li>
+          <li>Reduced dependence on traditional, in-person coaching</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</body>
 
 
