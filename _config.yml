@@ -9,7 +9,7 @@
 
 title: Ishika Gupta # the main title
 
-tagline: AI enthusiast | Avid reader   # it will display as the sub-title
+tagline: AI enthusiast | Problem Solver   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Ishika Gupta
@@ -22,7 +22,7 @@ plugins:
 
 author: Ishika Gupta # change to your full name
 
-avatar: /headshot.png # support internet resources
+avatar: /profile-pic.jpg # support internet resources
 
 github:
   username: ishika08 # change to your github username
