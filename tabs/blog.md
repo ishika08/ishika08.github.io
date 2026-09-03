@@ -13,6 +13,26 @@ type: blog
 # Blogs
 <hr>
 
+<style>
+  h2 { scroll-margin-top: 80px; }
+  .blog-toc a { text-decoration: none; }
+  .blog-toc a:hover { text-decoration: underline; }
+</style>
+
+<div class="blog-toc" style="background: rgba(14,165,233,0.06); border: 1px solid var(--color-border); border-left: 4px solid var(--color-primary); border-radius: 12px; padding: 20px 26px; margin: 22px 0 38px; box-shadow: 0 4px 12px rgba(0,0,0,0.06);">
+  <p style="margin: 0 0 12px; font-size: 1.05rem; font-weight: 700; color: var(--color-primary);">📚 Posts in this section</p>
+  <ol style="margin: 0; padding-left: 22px; line-height: 2;">
+    <li>
+      <a href="#speaking-at-the-agentic-ai-summit-2025--iisc-bangalore" style="color: var(--color-primary); font-weight: 600;">Speaking at the Agentic AI Summit 2025 — IISc Bangalore</a>
+      <span style="opacity: 0.65; font-size: 0.85rem;"> · December 2025</span>
+    </li>
+    <li>
+      <a href="#google-office-visit---research-week-with-google-program-february-2024" style="color: var(--color-primary); font-weight: 600;">Google Office Visit — Research Week with Google Program</a>
+      <span style="opacity: 0.65; font-size: 0.85rem;"> · February 2024</span>
+    </li>
+  </ol>
+</div>
+
 ## Speaking at the Agentic AI Summit 2025 — IISc Bangalore
 
 ### **Bringing Agentic AI Workflows to Life through Hands-on Learning**
