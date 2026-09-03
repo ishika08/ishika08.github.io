@@ -13,6 +13,99 @@ type: blog
 # Blogs
 <hr>
 
+## Speaking at the Agentic AI Summit 2025 — IISc Bangalore
+
+### **Bringing Agentic AI Workflows to Life through Hands-on Learning**
+
+<div style="border-left: 4px solid var(--color-primary); background: rgba(14,165,233,0.06); border-radius: 10px; padding: 20px 24px; margin: 24px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px 28px;">
+    <div><strong style="color: var(--color-primary);">🎤 Role</strong><br>Special Trainer, Mentor &amp; Speaker</div>
+    <div><strong style="color: var(--color-primary);">🏛️ Venue</strong><br>Indian Institute of Science (IISc), Bangalore</div>
+    <div><strong style="color: var(--color-primary);">📅 Dates</strong><br>December 12–13, 2025</div>
+    <div><strong style="color: var(--color-primary);">🤝 Organized by</strong><br>IEEE Bangalore Young Professionals Section</div>
+  </div>
+</div>
+
+In December 2025, I had the privilege of joining the **Agentic AI Summit 2025** as a Special Trainer, Mentor, and Speaker — hosted by the **IEEE Bangalore Young Professionals Section** at the iconic **Indian Institute of Science (IISc), Bangalore**. Stepping to the other side of the podium reshaped how I understand and communicate Agentic AI.
+
+#### **From Participant to Speaker**
+Having attended forums like this before, contributing as a speaker offered a fundamentally different perspective. Structuring the material to teach it demanded deeper clarity of my own — and made delivering complex concepts in an accessible, easy-to-grasp way all the more rewarding.
+
+#### **Hands-on Sessions: Agentic AI Workflows**
+I led hands-on sessions on **Agentic AI Workflows**, guiding participants through practical, build-as-you-learn development:
+
+- **Practical, Python-based AI development**
+- **Agent design & architecture**
+- **Tool integration for agents**
+- **Building real-world, end-to-end applications**
+
+Engaging with a curious and technically strong audience at IISc made the teaching and mentoring experience especially rewarding.
+
+#### **A Room Full of Industry & Research Leaders**
+The summit brought together senior engineers, architects, startup founders, and research leaders from organizations including **Google DeepMind, NVIDIA, Atlassian, Samsung Electronics, MediaTek, and Microsoft** — offering a valuable pulse on current AI R&D and real-world industry adoption.
+
+#### **Day 1 — Designing Agentic Systems**
+Day 1 focused on hands-on agentic system design — building simple agents with tool usage using modern agentic frameworks. It was a pleasure to share the stage with an exceptional group of speakers: **Harichandana B.S.S, Aarushi Aiyyar, Aditya Agrawal, Arup Das, Shikha Singh, Chinmay Kulkarni, and Sakshi Chourasia**.
+
+#### **Day 2 — The Future of AI & XR**
+Day 2 looked ahead to the convergence of AI and XR — immersive experiences with the **Samsung Galaxy XR**, conversations on human–AI collaboration, and the evolving role of agentic systems in shaping what comes next.
+
+#### **A Note of Gratitude**
+A special thanks to **Dr. Madhan Raj Kanagarathinam**, whose vision and leadership were instrumental in shaping the summit's success. His ability to bring together ideas, people, and purpose created a truly impactful platform for meaningful learning and collaboration.
+
+#### **Gallery: Moments from the Summit**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/tabs/assets/img/agentic-summit/img2.jpg" alt="Ishika Gupta featured on the Day 1 Speakers banner" style="width: 100%; height: 300px; object-fit: cover;">
+    <p style="padding: 12px; margin: 0; font-size: 0.9rem; color: var(--color-text-secondary);">Featured among the Day 1 speakers of the Agentic AI Summit 2025</p>
+  </div>
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/tabs/assets/img/agentic-summit/img1.jpg" alt="Delivering a hands-on session on stage" style="width: 100%; height: 300px; object-fit: cover;">
+    <p style="padding: 12px; margin: 0; font-size: 0.9rem; color: var(--color-text-secondary);">Delivering a hands-on session on Agentic AI Workflows at IISc, Bangalore</p>
+  </div>
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/tabs/assets/img/agentic-summit/img4.jpg" alt="A packed auditorium during the workshop" style="width: 100%; height: 300px; object-fit: cover;">
+    <p style="padding: 12px; margin: 0; font-size: 0.9rem; color: var(--color-text-secondary);">A packed auditorium during the hands-on workshop</p>
+  </div>
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/tabs/assets/img/agentic-summit/img5.jpg" alt="Walking through Agentic RAG concepts on screen" style="width: 100%; height: 300px; object-fit: cover;">
+    <p style="padding: 12px; margin: 0; font-size: 0.9rem; color: var(--color-text-secondary);">Walking through Agentic RAG concepts during the session</p>
+  </div>
+  <div style="border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="/tabs/assets/img/agentic-summit/img3.jpg" alt="Group photo with fellow speakers and participants" style="width: 100%; height: 300px; object-fit: cover;">
+    <p style="padding: 12px; margin: 0; font-size: 0.9rem; color: var(--color-text-secondary);">With fellow speakers and participants on Day 1</p>
+  </div>
+</div>
+
+#### **Key Takeaways**
+
+✨ **Teaching deepens mastery**: Structuring and delivering the topic sharpened my own understanding of Agentic AI.
+
+✨ **Industry meets research**: Direct exposure to how leading organizations are adopting AI agents today.
+
+✨ **Hands-on wins**: Building real agents with tool integration beats theory every time.
+
+✨ **AI + XR is next**: The convergence of agentic systems and immersive tech opens exciting new frontiers.
+
+#### **Final Thoughts**
+
+Experiences like these reinforce the importance of building practical, scalable, and human-aligned AI systems. I'm looking forward to applying these learnings and continuing to grow in the Agentic AI space.
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 8px;">
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#AgenticAI</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#IEEE</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#IEEEYPBangalore</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#ArtificialIntelligence</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#AIAgents</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#LLM</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#MachineLearning</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#FutureOfAI</span>
+  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#AICommunity</span>
+</div>
+
+---
+
 ## Google Office Visit - Research Week with Google Program (February 2024)
 
 ### **An Inside Look at Innovation and Culture**
