@@ -65,13 +65,10 @@ Engaging with a curious and technically strong audience at IISc made the teachin
 The summit brought together senior engineers, architects, startup founders, and research leaders from organizations including **Google DeepMind, NVIDIA, Atlassian, Samsung Electronics, MediaTek, and Microsoft** — offering a valuable pulse on current AI R&D and real-world industry adoption.
 
 #### **Day 1 — Designing Agentic Systems**
-Day 1 focused on hands-on agentic system design — building simple agents with tool usage using modern agentic frameworks. It was a pleasure to share the stage with an exceptional group of speakers: **Harichandana B.S.S, Aarushi Aiyyar, Aditya Agrawal, Arup Das, Shikha Singh, Chinmay Kulkarni, and Sakshi Chourasia**.
+Day 1 focused on hands-on agentic system design — building simple agents with tool usage using modern agentic frameworks. It was a pleasure to share the stage with an exceptional group of speakers.
 
 #### **Day 2 — The Future of AI & XR**
 Day 2 looked ahead to the convergence of AI and XR — immersive experiences with the **Samsung Galaxy XR**, conversations on human–AI collaboration, and the evolving role of agentic systems in shaping what comes next.
-
-#### **A Note of Gratitude**
-A special thanks to **Dr. Madhan Raj Kanagarathinam**, whose vision and leadership were instrumental in shaping the summit's success. His ability to bring together ideas, people, and purpose created a truly impactful platform for meaningful learning and collaboration.
 
 #### **Gallery: Moments from the Summit**
 
@@ -100,8 +97,6 @@ A special thanks to **Dr. Madhan Raj Kanagarathinam**, whose vision and leadersh
 
 #### **Key Takeaways**
 
-✨ **Teaching deepens mastery**: Structuring and delivering the topic sharpened my own understanding of Agentic AI.
-
 ✨ **Industry meets research**: Direct exposure to how leading organizations are adopting AI agents today.
 
 ✨ **Hands-on wins**: Building real agents with tool integration beats theory every time.
@@ -121,7 +116,6 @@ Experiences like these reinforce the importance of building practical, scalable,
   <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#LLM</span>
   <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#MachineLearning</span>
   <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#FutureOfAI</span>
-  <span style="background: rgba(14,165,233,0.1); color: var(--color-primary); border: 1px solid var(--color-border); border-radius: 999px; padding: 4px 12px; font-size: 0.8rem; font-weight: 600;">#AICommunity</span>
 </div>
 
 ---
